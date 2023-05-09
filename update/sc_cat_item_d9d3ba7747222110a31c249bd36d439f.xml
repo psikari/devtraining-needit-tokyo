@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Software">2809952237b1300054b6a3549dbe5dd4</category>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p><span style="color: #000000; background-color: #ffffff;"><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Please use this form to submit new Microsoft Teams group creation requests only           </span>                 </span><strong><img style="float: right;" title="icons8-microsoft-teams-2019.svg" src="/sys_attachment.do?sys_id&#61;2c74c04447762110a31c249bd36d432b" alt="" width="48" height="48" /></strong></span></p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>4824840447762110a31c249bd36d4359</icon>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta>Teams, MS Teams, New Team, Microsoft, Office 365</meta>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>New Teams group creation</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>true</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>26240c0447762110a31c249bd36d4371</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=d9d3ba7747222110a31c249bd36d439f&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method>request</request_method>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-08 23:27:51</sys_created_on>
+        <sys_id>d9d3ba7747222110a31c249bd36d439f</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>New Teams group creation</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_d9d3ba7747222110a31c249bd36d439f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 05:18:28</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="Service Catalog Item Request">0287f2c64a36232700820846b1f8bdce</workflow>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d9d3ba7747222110a31c249bd36d439f"/>
+    <fx_price action="delete_multiple" query="id=d9d3ba7747222110a31c249bd36d439f"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>d9d3ba7747222110a31c249bd36d439f</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-08 23:27:51</sys_created_on>
+        <sys_id>d364be7747222110a31c249bd36d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-08 23:27:51</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>d9d3ba7747222110a31c249bd36d439f</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-08 23:27:51</sys_created_on>
+        <sys_id>db64be7747222110a31c249bd36d434a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-08 23:27:51</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>icon</file_name>
+        <hash>20b742822625580790a5fb803a5488cdd58174c000c15fe52a6e62424b8173a2</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1344</size_bytes>
+        <size_compressed>729</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 05:16:04</sys_created_on>
+        <sys_id>4824840447762110a31c249bd36d4359</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2023-05-09 05:16:05</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>d9d3ba7747222110a31c249bd36d439f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="4824840447762110a31c249bd36d4359">4824840447762110a31c249bd36d4359</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 05:16:04</sys_created_on>
+        <sys_id>8824840447762110a31c249bd36d4359</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>bVRNU9swED3zLzTi0s7Iir4tdQiH0k7pgXKgcA+OE3uaxsE2SeDQ394n2ZSaduJI2rWkt293n8+6/Zocf2623ZxWfb/7MJsdDgd+0Lxp1zMlhJhhByVkX5eHj81xTgURxHg8lBzqZV/NqfG7IyVVWa+rfrTOz3aLviKrerOZ01MrbCgCJcs5vTKGKbX3hWCaa2kyxZ13zGX4d5kbTMzuTolKigujuRSWKcHiQcF9sGmlnsmV9ky6k0JxJQLDhkzyPEjMphBZ8g6ezMRflxk2msxcaBgmHdQ2nZKOpfue6WwafH7vdXk/BK9tDF5KRI9TRmeGe4OzgmvrMkzOORZ4yP2FDFzIwAwIRSzLdM6D12kFn80TQX+CSF4YxtsHhgkHDJVlMi9SokDQvSare01UNBwbTeZulEybZM7S6cSnqNtiU5IC5VOWkuJpTqWkpJ1TR9/wfGEf6SrkJIIHxHop7V6mwEFecgtSYG00yiiExzqgLCZ6Ksd1bi4UDKtAm8VrbDL+XPhMSbNbFHWPSLiwE1QZ0/A3FkojUCoJkspHWGtN7J4E5awvUFYVE4ReURI11yEf12kcop9C5lOiBpVDoFOWqIVQGCWgwThBqxzNN0J7rQBtUm0Ujw3ApXHDMg7AnYKGCLqpt+Wi/dIulnW57UkN/E8PD5+bZfe98KvrvP76Y1ff//q2oOQoISfuotSOCqXT3AhNyRPccvQ/wa9H/3q883Zb95DzY1e2NwAvr7e3XQlJdn2zI81q1ZWQqaAk2lnRbJo2ajQ4WegY4GSbfLNNL4xcFHHbbEpkIprHdvPu9P+s3g9KUugMc+mKmDN0P/SapdbHrO6kg4DHF4OTwV3BPTqZGl5ghhzdCZotNlbS0TDp+I3A+I+cV6vVEIH0XDgo3vMQwiVEq3EVGqlCQ5t879FrlcJS7bO0Tu67YXu6NX4Yz38DbVCx30AFAAA=</data>
+        <length>960</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="4824840447762110a31c249bd36d4359">4824840447762110a31c249bd36d4359</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 05:16:04</sys_created_on>
+        <sys_id>0c24840447762110a31c249bd36d4359</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>icons8-microsoft-teams-2019.svg</file_name>
+        <hash>20b742822625580790a5fb803a5488cdd58174c000c15fe52a6e62424b8173a2</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1344</size_bytes>
+        <size_compressed>729</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 05:17:28</sys_created_on>
+        <sys_id>2c74c04447762110a31c249bd36d432b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 05:17:28</sys_updated_on>
+        <table_name>sc_cat_item</table_name>
+        <table_sys_id>d9d3ba7747222110a31c249bd36d439f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icons8-microsoft-teams-2019.svg" sys_id="2c74c04447762110a31c249bd36d432b">2c74c04447762110a31c249bd36d432b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 05:17:28</sys_created_on>
+        <sys_id>6c74c04447762110a31c249bd36d432b</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>bVRNU9swED3zLzTi0s7Iir4tdQiH0k7pgXKgcA+OE3uaxsE2SeDQ394n2ZSaduJI2rWkt293n8+6/Zocf2623ZxWfb/7MJsdDgd+0Lxp1zMlhJhhByVkX5eHj81xTgURxHg8lBzqZV/NqfG7IyVVWa+rfrTOz3aLviKrerOZ01MrbCgCJcs5vTKGKbX3hWCaa2kyxZ13zGX4d5kbTMzuTolKigujuRSWKcHiQcF9sGmlnsmV9ky6k0JxJQLDhkzyPEjMphBZ8g6ezMRflxk2msxcaBgmHdQ2nZKOpfue6WwafH7vdXk/BK9tDF5KRI9TRmeGe4OzgmvrMkzOORZ4yP2FDFzIwAwIRSzLdM6D12kFn80TQX+CSF4YxtsHhgkHDJVlMi9SokDQvSare01UNBwbTeZulEybZM7S6cSnqNtiU5IC5VOWkuJpTqWkpJ1TR9/wfGEf6SrkJIIHxHop7V6mwEFecgtSYG00yiiExzqgLCZ6Ksd1bi4UDKtAm8VrbDL+XPhMSbNbFHWPSLiwE1QZ0/A3FkojUCoJkspHWGtN7J4E5awvUFYVE4ReURI11yEf12kcop9C5lOiBpVDoFOWqIVQGCWgwThBqxzNN0J7rQBtUm0Ujw3ApXHDMg7AnYKGCLqpt+Wi/dIulnW57UkN/E8PD5+bZfe98KvrvP76Y1ff//q2oOQoISfuotSOCqXT3AhNyRPccvQ/wa9H/3q883Zb95DzY1e2NwAvr7e3XQlJdn2zI81q1ZWQqaAk2lnRbJo2ajQ4WegY4GSbfLNNL4xcFHHbbEpkIprHdvPu9P+s3g9KUugMc+mKmDN0P/SapdbHrO6kg4DHF4OTwV3BPTqZGl5ghhzdCZotNlbS0TDp+I3A+I+cV6vVEIH0XDgo3vMQwiVEq3EVGqlCQ5t879FrlcJS7bO0Tu67YXu6NX4Yz38DbVCx30AFAAA=</data>
+        <length>960</length>
+        <position>1</position>
+        <sys_attachment display_value="icons8-microsoft-teams-2019.svg" sys_id="2c74c04447762110a31c249bd36d432b">2c74c04447762110a31c249bd36d432b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 05:17:28</sys_created_on>
+        <sys_id>ec74c04447762110a31c249bd36d432b</sys_id>
+    </sys_attachment_doc>
+</record_update>
