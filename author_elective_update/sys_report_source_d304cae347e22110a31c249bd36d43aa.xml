@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="DELETE">
+        <description>All active NeedIt request records</description>
+        <display>Active NeedIt Requests (NeedIt)</display>
+        <filter table="x_58872_needit_needit">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </filter>
+        <name>Active NeedIt Requests</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-08 01:18:54</sys_created_on>
+        <sys_id>d304cae347e22110a31c249bd36d43aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active NeedIt Requests (NeedIt)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_source_d304cae347e22110a31c249bd36d43aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-08 01:18:54</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_report_source>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f1f28a6edb621dd48aea21c40596198b</instance_id>
+        <instance_name>dev140848</instance_name>
+        <name>sys_report_source_d304cae347e22110a31c249bd36d43aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description>All active NeedIt request records</description>
+        <display>Active NeedIt Requests (NeedIt)</display>
+        <filter table="x_58872_needit_needit">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </filter>
+        <name>Active NeedIt Requests</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-08 01:18:54</sys_created_on>
+        <sys_id>d304cae347e22110a31c249bd36d43aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active NeedIt Requests (NeedIt)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_source_d304cae347e22110a31c249bd36d43aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-08 01:18:54</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_report_source>
+</record_update>]]></payload>
+        <payload_hash>236248056</payload_hash>
+        <record_name>Active NeedIt Requests (NeedIt)</record_name>
+        <reverted_from/>
+        <source>a0775e3347b32110a31c249bd36d4373</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 00:40:01</sys_created_on>
+        <sys_id>3487d27347b32110a31c249bd36d4370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1893d3db3380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 00:40:01</sys_updated_on>
+        <type>Report Source</type>
+        <update_guid>7c87d273d9b32110feaf31911387216f</update_guid>
+        <update_guid_history>7c87d273d9b32110feaf31911387216f:0,044406e3f6e22110a3ebfb688f017cf5:1792826834</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-11 03:42:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_source">sys_report_source</sys_db_object>
+        <sys_id>5b934f3bf04f4364b5ec1452237bf910</sys_id>
+        <sys_metadata>d304cae347e22110a31c249bd36d43aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active NeedIt Requests (NeedIt)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_report_source_d304cae347e22110a31c249bd36d43aa</sys_update_name>
+        <sys_update_version display_value="sys_report_source_d304cae347e22110a31c249bd36d43aa">3487d27347b32110a31c249bd36d4370</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-11 03:42:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
